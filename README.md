@@ -13,6 +13,14 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
+## 🏆 Badges (3D Style)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/50%20Days%20Badge%202025-%F0%9F%8F%86-ffcc00?style=for-the-badge&logo=leetcode&logoColor=white" alt="50 Days Badge 2025" />
+</p>
+
+---
+
 ## 📈 My Profile
 
 | Stats | Details |
@@ -22,15 +30,22 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 | **Problems Solved (Java)** | 136 |
 | **Problems Solved (C++)** | 26 |
 | **Problems Solved (MySQL)** | 2 |
-| **Recent Badge** | “50 Days Badge 2025” |
 
 ---
 
 ## 🔗 Connect with Me
 
-- 🌐 [LeetCode](https://leetcode.com/u/tanish24413/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanish-badyal-1099ab228) :contentReference[oaicite:0]{index=0}  
-- 📧 Email: (your email here)
+<p align="left">
+  <a href="https://leetcode.com/u/tanish24413/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanish-badyal-1099ab228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tanisharma2465@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -46,7 +61,7 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 - More contest participation  
 - Graph Algorithms & Segment Trees  
-- Better performance & optimization in solutions  
+- Performance & optimization in solutions  
 
 ---
 
