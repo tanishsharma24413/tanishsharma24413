@@ -29,20 +29,15 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
-## 🟢 GeeksforGeeks Streak
+## 🟢 GeeksforGeeks Streak & Stats
 
 <p align="center">
-  <!-- Replace with your actual GfG streak image or badge -->
-  <img src="assets/gfg-streak.png" alt="GfG 30 Days Streak" width="140" height="140"/>
+  <img src="https://img.shields.io/badge/GfG-30%20Days%20Streak-1E7F3C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GfG 30 Days Streak"/>
 </p>
 
-[Visit my GfG Profile](https://www.geeksforgeeks.org/edit-profile/)
+[![Tanish's GeeksforGeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=tanishshawld1&theme=dark&hide_border=false&hide_title=false&show_icons=true&icon_color=FFA116&bg_color=1E1E2F)](https://www.geeksforgeeks.org/user/tanishshawld1/)
 
----
-
-## 🟢 GeeksforGeeks Stats
-
-[![Tanish's GeeksforGeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=tanishshawld1)](https://www.geeksforgeeks.org/user/tanishshawld1/)
+[Visit my GfG Profile](https://www.geeksforgeeks.org/user/tanishshawld1/)
 
 ---
 
