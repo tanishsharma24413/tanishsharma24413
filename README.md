@@ -13,10 +13,11 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
-## 🏆 Badges (3D Style)
+## 🏆 Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/50%20Days%20Badge%202025-%F0%9F%8F%86-ffcc00?style=for-the-badge&logo=leetcode&logoColor=white" alt="50 Days Badge 2025" />
+  <!-- Replace the src below with your actual badge GIF -->
+  <img src="assets/50days.gif" alt="50 Days Badge" width="120" height="120"/>
 </p>
 
 ---
@@ -30,6 +31,7 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 | **Problems Solved (Java)** | 136 |
 | **Problems Solved (C++)** | 26 |
 | **Problems Solved (MySQL)** | 2 |
+| **Recent Badge** | “50 Days Badge 2025” |
 
 ---
 
