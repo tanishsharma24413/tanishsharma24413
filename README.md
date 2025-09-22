@@ -8,6 +8,7 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 ## 🚀 LeetCode Stats
 
 <p align="center">
+  <!-- This will auto-update via GitHub Action -->
   <img src="https://leetcard.jacoblin.cool/tanish24413?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
@@ -16,8 +17,8 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 ## 🏆 Badges
 
 <p align="center">
-  <!-- Replace the src below with your actual badge GIF -->
-  <img src="assets/50days.gif" alt="50 Days Badge" width="120" height="120"/>
+  <!-- 50 Days Badge GIF from LeetCode -->
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="140" height="140"/>
 </p>
 
 ---
@@ -76,3 +77,41 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 ---
 
 ✨ Consistency is the key. Keep coding, keep growing! ✨
+
+---
+
+### GitHub Action Workflow (Auto-update LeetCode stats)
+
+Place this file as `.github/workflows/leetcode-stats.yml`:
+
+```yaml
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate LeetCode Stats
+        uses: jagrosh/leetcard-action@v1
+        with:
+          username: tanish24413
+          output: README.md
+          theme: dark
+          font: baloo
+          ext: contest
+          badges: true
+
+      - name: Commit & Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: 'github-actions[bot]@users.noreply.github.com'
+          message: 'Update LeetCode stats'
