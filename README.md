@@ -33,10 +33,10 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 <p align="center">
   <!-- Replace the src with your actual GfG streak image or badge -->
-  <img src="https://path_to_your_gfg_streak_image.png" alt="GfG 30 Days Streak" width="140" height="140"/>
+  <img src="assets/gfg-streak.png" alt="GfG 30 Days Streak" width="140" height="140"/>
 </p>
 
-[Visit my GfG Profile](https://auth.geeksforgeeks.org/user/tanish24413)  
+[Visit my GfG Profile](https://www.geeksforgeeks.org/edit-profile/)
 
 ---
 
@@ -64,6 +64,9 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
   </a>
   <a href="mailto:tanisharma2465@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/edit-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1E7F3C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GfG Profile"/>
   </a>
 </p>
 
