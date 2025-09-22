@@ -1,15 +1,22 @@
 # Hi there 👋, I'm Tanish Badyal
 
 💻 Passionate about problem-solving, coding, and building cool projects.  
-Currently sharpening my **DSA & competitive programming** skills through **LeetCode**.
+Currently sharpening my **DSA & competitive programming** skills through **LeetCode** and **GeeksforGeeks**.
 
 ---
 
 ## 🚀 LeetCode Stats
 
 <p align="center">
-  <!-- This will auto-update via GitHub Action -->
   <img src="https://leetcard.jacoblin.cool/tanish24413?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 📊 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishbadyal&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -17,9 +24,19 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 ## 🏆 Badges
 
 <p align="center">
-  <!-- 50 Days Badge GIF from LeetCode -->
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="140" height="140"/>
 </p>
+
+---
+
+## 🟢 GeeksforGeeks Streak
+
+<p align="center">
+  <!-- Replace the src with your actual GfG streak image or badge -->
+  <img src="https://path_to_your_gfg_streak_image.png" alt="GfG 30 Days Streak" width="140" height="140"/>
+</p>
+
+[Visit my GfG Profile](https://auth.geeksforgeeks.org/user/tanish24413)  
 
 ---
 
