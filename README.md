@@ -13,14 +13,6 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
-## 📊 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishbadyal&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
----
-
 ## 🏆 Badges
 
 <p align="center">
@@ -111,38 +103,3 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
-### GitHub Action Workflow (Auto-update LeetCode stats)
-
-Place this file as `.github/workflows/leetcode-stats.yml`:
-
-```yaml
-name: Update LeetCode Stats
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate LeetCode Stats
-        uses: jagrosh/leetcard-action@v1
-        with:
-          username: tanish24413
-          output: README.md
-          theme: dark
-          font: baloo
-          ext: contest
-          badges: true
-
-      - name: Commit & Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: 'github-actions[bot]'
-          author_email: 'github-actions[bot]@users.noreply.github.com'
-          message: 'Update LeetCode stats'
