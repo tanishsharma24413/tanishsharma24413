@@ -13,12 +13,6 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
-## 🏆 Badges
-
-<p align="center">
-  <!-- The GitHub Action will auto-update this year -->
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="50 Days Badge" width="140" height="140"/>
-</p>
 
 ---
 
