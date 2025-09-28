@@ -13,6 +13,11 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 
 ---
 
+## 🏆 Badges
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge 2025" width="140" height="140"/>
+</p>
 
 ---
 
@@ -47,7 +52,7 @@ Currently sharpening my **DSA & competitive programming** skills through **LeetC
 | **Problems Solved (Java)** | 136 |
 | **Problems Solved (C++)** | 26 |
 | **Problems Solved (MySQL)** | 2 |
-| **Recent Badge** | “50 Days Badge (Auto-updated yearly)” |
+| **Recent Badge** | “50 Days Badge 2025” |
 
 ---
 
